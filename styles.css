@@ -31,6 +31,12 @@ form {
     height: 100px;
   }
 
+     .checkbox-label {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
   input[type="checkbox"] {
     margin-right: 10px;
   }
