@@ -91,7 +91,9 @@ form {
     margin-right: 10px;
   }
 
-  button[type="submit"] {
+  
+
+  input[type="submit"] {
     width: 100%;
     background: black;
     color: white;
@@ -101,7 +103,7 @@ form {
     font-size: 16px;
   }
 
-button[type="submit"]:hover {
+input[type="submit"]:hover {
     background: lightcoral;
   }
 
